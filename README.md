@@ -76,7 +76,7 @@ Create and share your own roadmaps with the community through the "Create Your O
 
 - **Akram Rafid (231017512)** - Backend Integration
 - **Jihad Hossain Jisan (231016712)** - UI Components
-- **Zarin Tasnim (231916312)** - UI Components
+- **Zarin Tasnim (231016312)** - UI Components
 
 
 ## 📄 License
