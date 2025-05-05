@@ -104,14 +104,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Vercel](https://vercel.com/)
 \`\`\`
 
-This README provides a comprehensive overview of your Study Hub project, including installation instructions, features, team members, and more. You can customize it further by:
-
-1. Adding actual screenshots of your application
-2. Updating the repository URL
-3. Adding more specific usage instructions
-4. Including any additional features or technologies
-5. Adding contact information for team members
-
 
 <Actions>
   <Action name="Add deployment instructions" description="Include more detailed deployment steps" />
